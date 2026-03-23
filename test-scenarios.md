@@ -10,7 +10,7 @@ TS_LOGIN_09 – Kiểm tra redirect sau khi login thành công
 TS_LOGIN_10 – Kiểm tra lưu token sau login
 TS_LOGIN_11 – Đăng nhập nhiều lần sai liên tiếp (security)
 
-TS_REGISTER_01 – Đăng ký khi bỏ trống field
+TS_REGISTER_01 – Đăng ký khi bỏ trống fields
 TS_REGISTER_02 – Đăng ký với email sai format
 TS_REGISTER_03 – Đăng ký với email đã tồn tại
 TS_REGISTER_04 – Đăng ký với mật khẩu quá ngắn
