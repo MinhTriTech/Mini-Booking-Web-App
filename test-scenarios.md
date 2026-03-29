@@ -17,4 +17,3 @@ TS_BOOKING_04 – Đặt lịch với thời gian tương lai
 TS_BOOKING_05 – Đặt lịch thành công
 TS_BOOKING_06 – Xem danh sách lịch đã đặt
 TS_BOOKING_07 - Đặt lịch trùng thời gian
-
